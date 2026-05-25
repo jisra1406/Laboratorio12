@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "dependencies": {
     "servor": "^4.0.2"
   },
@@ -11,4 +12,9 @@
     "dev": "vite",
     "test": "vitest"
   }
+=======
+	"dependencies": {
+		"servor": "^4.0.2"
+	}
+>>>>>>> a6150131b7a2f487c680cad6ce08149c283f28fa
 }

@@ -11,6 +11,7 @@ importers:
       servor:
         specifier: ^4.0.2
         version: 4.0.2
+<<<<<<< HEAD
     devDependencies:
       happy-dom:
         specifier: ^20.9.0
@@ -347,10 +348,16 @@ packages:
     engines: {node: ^20.19.0 || >=22.12.0}
     hasBin: true
 
+=======
+
+packages:
+
+>>>>>>> a6150131b7a2f487c680cad6ce08149c283f28fa
   servor@4.0.2:
     resolution: {integrity: sha512-MlmQ5Ntv4jDYUN060x/KEmN7emvIqKMZ9OkM+nY8Bf2+KkyLmGsTqWLyAN2cZr5oESAcH00UanUyyrlS1LRjFw==}
     hasBin: true
 
+<<<<<<< HEAD
   siginfo@2.0.0:
     resolution: {integrity: sha512-ybx0WO1/8bSBLEWXZvEd7gMW3Sn3JFlW3TvX1nREbDLRNQNaeNN8WK0meBwPdAaOI7TtRRRJn/Es1zhrrCHu7g==}
 
@@ -837,3 +844,8 @@ snapshots:
       stackback: 0.0.2
 
   ws@8.21.0: {}
+=======
+snapshots:
+
+  servor@4.0.2: {}
+>>>>>>> a6150131b7a2f487c680cad6ce08149c283f28fa
